@@ -1,0 +1,98 @@
+h1{
+    background-color: rgba(0, 0, 255, 0.5);
+    text-align: center;
+}
+h2{
+    color:brown;
+    background-color: rgba(127, 255, 212, 0.5);
+    text-align: center;
+}
+body {
+    margin: 20px;
+    text-align: center;
+  }
+#bg
+{
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+#pm{
+    color: lightcoral;
+    text-decoration: none;
+}
+#pm:hover{
+    color:lightgreen;
+}
+#pm:visited{
+    color:lightcyan;
+}
+.ind{
+    color:crimson;
+    text-decoration: none;
+    font-weight: bold;
+}
+.ind:hover{
+    color:fuchsia;
+}
+.ind:visited{
+    color: darkblue;
+}
+#img1{
+    float: right;
+    margin: 5px;
+    height: 200px;
+    width: 350px;
+}
+p {
+    text-align: justify;
+    font-size: 25px;
+  }
+h3{
+    color: brown;
+    background-color: rgba(240, 230, 140, 0.5);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:hotpink;
+}
+a:visited{
+    color:black;
+}
+body{
+    overflow:scroll;
+}
+#get{
+    text-align: left;
+    color:indigo;
+    list-style-type: square;
+}
+#pol{
+    color: dodgerblue;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+#pollife{
+    color:orangered;
+    background-color:rgba(0, 0, 205, 0.635);
+    text-align: left;
+    list-style-type: circle;
+    padding:10px;
+    margin:10px;
+}
+#guj{
+    color: crimson;
+    background-color: rgba(255, 228, 196, 0.749);
+}
+#indpm{
+    color:purple;
+    background-color:rgba(255, 228, 196, 0.774);
+}
+.conc{
+    font-size:medium;
+    background-color: chartreuse;
+}
+li{
+    text-align: left;
+}
